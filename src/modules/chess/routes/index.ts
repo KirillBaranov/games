@@ -1,0 +1,1 @@
+export { chessRoutes } from './chessRoutes'
